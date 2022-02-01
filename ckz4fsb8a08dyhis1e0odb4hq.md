@@ -23,7 +23,7 @@ Thanks to an npm package, [kill-port](https://www.npmjs.com/package/kill-port), 
 
 ```npx kill-port 3000``` 
 
-That's all! Because npx has to temporarily install the kill-port package, it is slower than kill + lsof. However, I can remember it 100x better. Based on my review of kill-port's source code, it is built on kill + lsof. In my opinion, kill-port provides a more approachable abstraction. 
+That's all! Because npx has to temporarily install the kill-port package, it is slower than kill + lsof. However, I can tell you its 100x better. Based on my review of kill-port's source code, it is built on kill + lsof. In my opinion, kill-port provides a more approachable abstraction. 
 
 If for some reason you need to install kill-port npm package, you can use the following command:
 
