@@ -48,7 +48,7 @@ Artificial intelligence can improve communications with customers and staff, ana
 <div style="position: absolute; width: 100%; height: 0; padding-top: 56.2500%;
  
  border-radius: 8px; will-change: transform;">
-  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 10%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
     src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAE4vPSPABs&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
