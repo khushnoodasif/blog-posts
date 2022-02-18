@@ -45,7 +45,7 @@ In the financial services industry, AI is still in its infancy, but it will incr
 
 Artificial intelligence can improve communications with customers and staff, analyse data from multiple disparate locations to find patterns or connections that humans couldn't find, and answer investment questions in real-time via natural language. It's not too late to begin learning about AI technologies and strategising for the future-better late than never.
 
-<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+<div style="position: absolute; width: 100%; height: 0; padding-top: 56.2500%;
  
  border-radius: 8px; will-change: transform;">
   <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
