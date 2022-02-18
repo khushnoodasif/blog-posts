@@ -1,34 +1,10 @@
 ## How Artificial Intelligence Is Transforming Banking
 
+In recent years, Artificial Intelligence (AI) and machine learning have received much press, but the potential is obscured by fear and uncertainty among the general public and financial services executives alike. 
 
+In spite of the financial industry's long history of embracing new technology to serve its customers better and improve efficiency, it has been slower than other sectors in implementing AI solutions such as retail and healthcare.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-- In recent years, Artificial Intelligence (AI) and machine learning have received much press, but the potential is obscured by fear and uncertainty among the general public and financial services executives alike. 
-
-- In spite of the financial industry's long history of embracing new technology to serve its customers better and improve efficiency, it has been slower than other sectors in implementing AI solutions such as retail and healthcare.
-
-- As part of this presentation, I will discuss several compelling use cases for AI and why banks and credit unions must embrace cognitive technologies to transform the way they engage and serve customers.
+As part of this presentation, I will discuss several compelling use cases for AI and why banks and credit unions must embrace cognitive technologies to transform the way they engage and serve customers.
 
 # **Why AI?**
 
