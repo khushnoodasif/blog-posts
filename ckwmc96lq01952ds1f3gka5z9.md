@@ -1,4 +1,4 @@
-## Python Program to check Prime Number
+# Python Program to check Prime Number
 
 
 
