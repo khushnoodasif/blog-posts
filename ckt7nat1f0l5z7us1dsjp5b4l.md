@@ -4,13 +4,11 @@ It is first necessary to install the pyqrcode module. You can execute this comma
 
 `pip install pyqrcode`
 
-It will take a few seconds to install the module.
-We need to create a Python file from which we will generate a QR code. 
+It will take a few seconds to install the module. We need to create a Python file from which we will generate a QR code.
 
 **1) Import essential modules.**
 
-`import pyqrcode
-from pyqrcode import QRCode`
+`import pyqrcode from pyqrcode import QRCode`
 
 **2) Create the string that will represent the QR Code.**
 
@@ -28,10 +26,8 @@ Now that we have the code finished, we can run the program. The program creates 
 
 **QR Code**
 
-![QR Code](https://github.com/khushnoodasif/create-qr-code-with-python/blob/main/qrcode.png?raw=true)
+![](https://raw.githubusercontent.com/khushnoodasif/create-qr-code-with-python/1b1058e3b22250ffeee259f84598ef316700e3fa/blog.svg align="center")
 
 I have posted this python file's source code on my [GitHub repository](https://github.com/khushnoodasif/create-qr-code-with-python). Also, check the walk-through on [YouTube](https://youtu.be/N9AT6u3Ey-4).
 
 Thanks for reading!
-
-
