@@ -1,4 +1,4 @@
-## Create a QR Code with Python
+# Create a QR Code with Python
 
 It is first necessary to install the pyqrcode module. You can execute this command by writing it in your command prompt or terminal.
 
