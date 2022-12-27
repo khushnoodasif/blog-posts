@@ -1,4 +1,4 @@
-## How to Reset Password in Kali Linux 2021
+# How to Reset Password in Kali Linux 2021
 
 Kali Linux is the most popular security operating system of today, and it is the operating system that most programmers use for penetration testing. Pen-testing is a practice in which people check their own systems and their own architectures for vulnerabilities. Debian-based, it is widely regarded as one of the best options for hackers. Kali Linux was developed by offensive security as a rewrite of Backtrack, a Linux distribution focused on security. Kali Linux is a distribution with many hacking and penetration tools that are current and are included as part of the distribution by default.
 
