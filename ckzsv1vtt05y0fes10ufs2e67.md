@@ -1,4 +1,4 @@
-## How Artificial Intelligence Is Transforming Banking
+# How Artificial Intelligence Is Transforming Banking
 
 In recent years, Artificial Intelligence (AI) and machine learning have received much press, but the potential is obscured by fear and uncertainty among the general public and financial services executives alike. 
 
