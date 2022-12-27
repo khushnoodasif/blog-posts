@@ -1,4 +1,4 @@
-## How to Terminate a Node Process
+# How to Terminate a Node Process
 
 You might find yourself managing multiple node processes at the same time while working on a full-stack application. Automated scripts or programs that watch and execute your unit-tests while you code/TDD are possibilities. There is likely Webpack running and serving your frontend on localhost and a node app serving the REST API your frontend is connecting to. Each of these processes would occupy a specific port.
 
