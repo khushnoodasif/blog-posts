@@ -3,7 +3,7 @@ title: "K9s: Simplifying Kubernetes Management with an Intuitive CLI Interface"
 datePublished: Sat Mar 25 2023 22:04:17 GMT+0000 (Coordinated Universal Time)
 cuid: clfoiqw9m000h09l41chd2rhm
 slug: k9s-simplifying-kubernetes-management-with-an-intuitive-cli-interface
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1679782128401/466252f6-bb81-4d53-a508-2e3815b05ef7.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1680116539555/d699c3a7-1176-474d-acd0-c279e4731595.png
 tags: kubernetes, devops, k9s, pods
 
 ---
